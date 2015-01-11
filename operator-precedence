@@ -1,0 +1,21 @@
+Operator(s)            Type
+()                    Parentheses
+++ --                 Increment/Decrement
+! Logical
+* / % Arithmetic
+Operators | 65
+Operator(s) Type
++ - . Arithmetic and String
+<< >> Bitwise
+< <= > >= <> Comparison
+== != === !== Comparison
+& Bitwise (and references)
+^ Bitwise
+| Bitwise
+&& Logical
+|| Logical
+? : Ternary
+= += -= *= /= .= %= &= != ^= <<= >>= Assignment
+and Logical
+xor Logical
+or Logical
